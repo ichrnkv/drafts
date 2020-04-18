@@ -49,7 +49,7 @@ if __name__ == '__main__':
     domains = ["hotmail.com", "gmail.com", "aol.com", "mail.com", "mail.ru", "yahoo.com"]
     alph = 'abcdefghijklmnopqrstuvwxyz1234567890._-'
 
-    # предположим, обладатель ящика 'mmshnka11@gmail.com' - читер
+    # предположим, обладатель ящика 'mmashnka11@gmail.com' - читер
     # и наша задача- найти похожие ящики в большом корпусе email-ов
 
     # сгенерим 10000 email-ов
